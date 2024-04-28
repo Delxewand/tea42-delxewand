@@ -1,0 +1,34 @@
+{
+  "name": "tea42-delxewand",
+  "version": "1.0.0",
+  "description": "Web3 shell",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Delxewand/tea42-delxewand.git"
+  },
+  "dependencies": {
+    "bip39": "^3.1.0",
+    "ethereumjs-wallet": "^1.0.2",
+    "ethers": "^5.5.0",
+    "fs": "^0.0.1-security",
+    "shell-oooooyoung": "^1.1.11",
+    "tea01-tankqing88": "^1.0.0",
+    "web3": "^4.3.0"
+  },
+  "keywords": [
+    "[\"utils\"",
+    "\"format\"",
+    "\"money\"",
+    "\"phone\"]"
+  ],
+  "author": "Delxewand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Delxewand/tea42-delxewand/issues"
+  },
+  "homepage": "https://github.com/Delxewand/tea42-delxewand#readme"
+}
